@@ -1,0 +1,23 @@
+$Dark-cyan: hsl(158, 36%, 37%);
+$Cream: hsl(30, 38%, 92%);
+$Very-dark-blue: hsl(212, 21%, 14%);
+$Dark-grayish-blue: hsl(228, 12%, 48%);
+$White: hsl(0, 0%, 100%);
+
+// Montserrat
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Kumbh+Sans&family=Lexend+Deca&family=Montserrat&family=Outfit&family=Red+Hat+Display&display=swap");
+
+// Fraunces
+@import url("https://fonts.googleapis.com/css2?family=Fraunces&family=Inter&family=Kumbh+Sans&family=Lexend+Deca&family=Montserrat&family=Outfit&family=Red+Hat+Display&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  list-style-type: none;
+}
+
+body {
+  min-height: 100vh;
+  background-color: hsl(158, 36%, 37%);
+}

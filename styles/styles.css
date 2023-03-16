@@ -10,5 +10,9 @@
 
 body {
   min-height: 100vh;
-  background-color: hsl(158, 36%, 37%);
+  background-color: hsl(30, 38%, 92%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }/*# sourceMappingURL=styles.css.map */

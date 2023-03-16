@@ -15,4 +15,14 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+body .card {
+  max-width: 375px;
+  border: 1px solid red;
+  border-radius: 10px;
+  overflow: hidden;
+}
+body .card .parfum-img {
+  background: url(../images/image-product-mobile.jpg) no-repeat center/cover;
+  height: 250px;
 }/*# sourceMappingURL=styles.css.map */

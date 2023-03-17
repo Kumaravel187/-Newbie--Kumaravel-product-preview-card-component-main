@@ -85,7 +85,7 @@ body .card .parfum-content button {
 @media screen and (min-width: 768px) {
   body .card {
     flex-direction: row;
-    max-width: 1440px;
+    max-width: 600px;
   }
   body .card .parfum-img {
     width: 50%;
